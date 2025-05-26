@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @academic-spork
-- 👀 I’m interested in bio tech and microcontrollers
-- 🌱 I’m currently learning c++ and arduino
+- 👀 I’m interested in bio-tech and AI/ML
+- 🌱 I’m currently learning c++, autoML, and data science
 - 💞️ I’m looking to collaborate on AI/ML projects
-- 📫 How to reach me ...
+- 📫 How to reach me...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: love star wars
+- ⚡ Fun fact: I love Star Wars
 
 <!---
 academic-spork/academic-spork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
